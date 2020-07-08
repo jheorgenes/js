@@ -1,2 +1,2 @@
 # js
-Aulas de bootcamp de JS
+# Bem vindos, iniciando meus estudos em Java Script.
