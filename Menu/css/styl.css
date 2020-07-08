@@ -1,0 +1,45 @@
+/* Aqui vai todo o CSS principal */
+
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-navegacao{
+    display: flex;
+    align-items: center;
+    background-color: rgb(46, 42, 39);
+    height: 60px;
+    padding: 15px;
+}
+
+.navegacao-paginas{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.logo-img{
+    width: 60px;
+    height: 60px;
+}
+
+
+.pagina{
+    list-style-type: none;
+    margin-left: 15px;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.link{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
